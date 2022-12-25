@@ -1,0 +1,20 @@
+{
+  "name": "PDF_LIB_WATERMARK_AWS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.235.0",
+    "aws-sdk": "^2.1279.0",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
